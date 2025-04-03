@@ -29,4 +29,4 @@ I am beginning my journey into cybersecurity and am currently researching course
 
 ## Contact
 
-* [vionedroned@gmail.com] 
+* vionedroned@gmail.com
